@@ -14,7 +14,7 @@ contributor:
     - LeGallienne, Richard
     - Gallienne, Richard Le
     birthdate: 1866
-    deathdate: &id001 1947
+    deathdate: 1947
     gutenberg_agent_id: '246'
     url: http://www.gutenberg.org/2009/agents/246
     wikipedia: http://en.wikipedia.org/wiki/Richard_Le_Gallienne
@@ -107,7 +107,7 @@ contributor:
     - http://www.gutenberg.org/ebooks/author/44231
   - agent_name: Machen, Arthur
     birthdate: 1863
-    deathdate: *id001
+    deathdate: 1947
     gutenberg_agent_id: '214'
     url: http://www.gutenberg.org/2009/agents/214
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Machen
@@ -128,6 +128,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15143#Famous-Modern-Ghost-Stories
 gutenberg_bookshelf: Short Stories
 gutenberg_issued: '2005-02-22'
 gutenberg_type: Text
