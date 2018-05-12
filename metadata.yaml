@@ -1,0 +1,154 @@
+_repo: Famous-Modern-Ghost-Stories_15143
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Scarborough, Dorothy
+    birthdate: 1878
+    deathdate: 1935
+    gutenberg_agent_id: '5885'
+    url: http://www.gutenberg.org/2009/agents/5885
+    wikipedia: http://en.wikipedia.org/wiki/Dorothy_Scarborough
+  contributors:
+  - agent_name: Le Gallienne, Richard
+    aliases:
+    - LeGallienne, Richard
+    - Gallienne, Richard Le
+    birthdate: 1866
+    deathdate: &id001 1947
+    gutenberg_agent_id: '246'
+    url: http://www.gutenberg.org/2009/agents/246
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Le_Gallienne
+  - agent_name: Harvey, William Fryer
+    alias: Harvey, W. F. (William Fryer)
+    birthdate: 1885
+    deathdate: 1937
+    gutenberg_agent_id: '5882'
+    url: http://www.gutenberg.org/2009/agents/5882
+    wikipedia: http://en.wikipedia.org/wiki/W._F._Harvey
+  - agent_name: Chambers, Robert W. (Robert William)
+    alias: Chambers, Robert William
+    birthdate: 1865
+    deathdate: 1933
+    gutenberg_agent_id: '38191'
+    url: http://www.gutenberg.org/2009/agents/38191
+    wikipedia: http://en.wikipedia.org/wiki/Robert_W._Chambers
+  - agent_name: Steele, Wilbur Daniel
+    birthdate: 1886
+    deathdate: 1970
+    gutenberg_agent_id: '5886'
+    url: http://www.gutenberg.org/2009/agents/5886
+    wikipedia: http://en.wikipedia.org/wiki/Wilbur_Daniel_Steele
+  - agent_name: France, Anatole
+    aliases:
+    - Thibault, Anatole
+    - Thibault, Jacques-Anatole-François
+    - Thibault, Jacques-Anatole-Francois
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '755'
+    url: http://www.gutenberg.org/2009/agents/755
+    wikipedia: http://en.wikipedia.org/wiki/Anatole_France
+  - agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Guy_de_Maupassant
+    - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
+  - agent_name: Dunbar, Olivia Howard
+    birthdate: 1873
+    deathdate: 1953
+    gutenberg_agent_id: '5883'
+    url: http://www.gutenberg.org/2009/agents/5883
+  - agent_name: Freeman, Mary Eleanor Wilkins
+    aliases:
+    - Wilkins, Mary E. (Mary Eleanor)
+    - Wilkins, Mary Eleanor
+    - Freeman, Mary E. Wilkins (Mary Eleanor Wilkins)
+    - Wilkins, Mary Ella
+    birthdate: 1852
+    deathdate: 1930
+    gutenberg_agent_id: '495'
+    url: http://www.gutenberg.org/2009/agents/495
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Eleanor_Wilkins_Freeman
+  - agent_name: Closser, Myla Jo
+    gutenberg_agent_id: '5884'
+    url: http://www.gutenberg.org/2009/agents/5884
+  - agent_name: Andreyev, Leonid
+    aliases:
+    - Andreev, Leonid Nikolaevich
+    - Andreyev, Leonid Nikolayevich
+    - Андреев, Леонид Николаевич
+    birthdate: 1871
+    deathdate: 1919
+    gutenberg_agent_id: '1871'
+    url: http://www.gutenberg.org/2009/agents/1871
+    wikipedia: http://en.wikipedia.org/wiki/Leonid_Andreyev
+  - agent_name: O'Brien, Fitz James
+    aliases:
+    - O'Brien, Fitzjames
+    - O'Brien, Fitz-James
+    - O'Brien, Michael Fitz James
+    birthdate: 1828
+    deathdate: 1862
+    gutenberg_agent_id: '5848'
+    url: http://www.gutenberg.org/2009/agents/5848
+    wikipedia: http://en.wikipedia.org/wiki/Fitz_James_O'Brien
+  - agent_name: Bierce, Ambrose
+    alias: Grile, Dod
+    birthdate: 1842
+    deathdate: 1913
+    gutenberg_agent_id: '206'
+    url: http://www.gutenberg.org/2009/agents/206
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Ambrose_Bierce
+    - http://www.gutenberg.org/ebooks/author/44231
+  - agent_name: Machen, Arthur
+    birthdate: 1863
+    deathdate: *id001
+    gutenberg_agent_id: '214'
+    url: http://www.gutenberg.org/2009/agents/214
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Machen
+  - agent_name: Blackwood, Algernon
+    birthdate: 1869
+    deathdate: 1951
+    gutenberg_agent_id: '1370'
+    url: http://www.gutenberg.org/2009/agents/1370
+    wikipedia: http://en.wikipedia.org/wiki/Algernon_Blackwood
+  - agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: 1809
+    deathdate: 1849
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: Short Stories
+gutenberg_issued: '2005-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15143'
+  lccn: '21008835'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ghost stories'
+- !lcsh 'Short stories'
+- !lcc 'PN'
+tableOfContents: The willows / Algernon Blackwood -- The shadows on the wall / Mary
+  E. Wilkins Freeman -- The messenger / Robert W. Chambers -- Lazarus / Leonid Andreyev
+  -- The beast with five fingers / W.F. Harvey -- The mass of shadows / Anatole France
+  -- What was it? / Fitz James O'Brien -- The middle toe of the right foot / Ambrose
+  Bierce -- The shell of sense / Olivia Howard Dunbar -- The woman at Seven Brothers
+  / Wilbur Daniel Steele -- At the gate / Myla Jo Closser -- Ligeia / Edgar Allan
+  Poe -- The haunted orchard / Richard Le Gallienne -- The bowmen / Arthur Machen
+  -- A ghost / Guy de Maupassant.
+title: Famous Modern Ghost Stories
+url: http://www.gutenberg.org/ebooks/15143
